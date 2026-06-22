@@ -19,15 +19,12 @@ In this task, I performed DNS enumeration using the 'dnsenum' tool against 'sdf.
 <img width="815" height="458" alt="image" src="https://github.com/user-attachments/assets/48abf3eb-c529-4766-87aa-5541ff7dbc7a" />
 
 
+<img width="815" height="458" alt="image" src="https://github.com/user-attachments/assets/82406f66-4652-4f43-845a-56f2c83ffd18" />
+
+<img width="815" height="458" alt="image" src="https://github.com/user-attachments/assets/7f449cec-f8ee-43e6-a4ea-c75a7d8459a6" />
 
 
-<img width="815" height="458" alt="image" src="https://github.com/user-attachments/assets/047eb029-307c-413f-8402-8a17fe7555de" />
-
-
-
-
-<img width="815" height="458" alt="image" src="https://github.com/user-attachments/assets/364a95d4-88e2-42e7-8239-1bd3b82933f6" />
-
+<img width="815" height="458" alt="image" src="https://github.com/user-attachments/assets/ba78eeb9-3003-4213-82e5-beedd912fcad" />
 
 
 ### T3: ICMP Sweep and TCP Sweep (Nmap)
