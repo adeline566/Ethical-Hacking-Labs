@@ -1,1 +1,3 @@
 # Ethical-Hacking-Labs
+
+This repository contains a collection of ethical hacking and penetration testing labs completed as part of hands-on cybersecurity practice. It covers core offensive security concepts including passive and active reconnaissance, malware analysis, steganography using Steghide, and SQL injection techniques. Each lab is documented with step-by-step methodology, screenshots, and explanations to demonstrate practical understanding of real-world attack vectors and defensive considerations. The goal of this project is to build strong foundational skills in ethical hacking, improve tool proficiency, and develop the ability to analyze and understand system vulnerabilities in controlled environments.
